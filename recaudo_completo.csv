@@ -2645,7 +2645,7 @@ movilidad;virtual;2021;12;368788780;100;2021-12-1
 multas codigo de policia;presencial;2021;12;48619867;94;2021-12-1
 otros ingresos;presencial;2021;12;64000136827;181;2021-12-1
 otros ingresos;virtual;2021;12;555556200;16;2021-12-1
-pot.;presencial;2021;12;343994963;27;2021-12-1
+pot;presencial;2021;12;343994963;27;2021-12-1
 publicidad exterior visual;presencial;2021;12;161984205;577;2021-12-1
 publicidad exterior visual;virtual;2021;12;28480411;2;2021-12-1
 recursos fonset;presencial;2021;12;437751000;3;2021-12-1
@@ -2687,7 +2687,7 @@ movilidad;virtual;2022;1;302128400;94;2022-1-1
 multas codigo de policia;presencial;2022;1;147850204;95;2022-1-1
 otros ingresos;presencial;2022;1;526696641;72;2022-1-1
 otros ingresos;virtual;2022;1;59386000;2;2022-1-1
-pot.;presencial;2022;1;45435732;10;2022-1-1
+pot;presencial;2022;1;45435732;10;2022-1-1
 publicidad exterior visual;presencial;2022;1;45875547;202;2022-1-1
 recursos fonset;presencial;2022;1;13693228000;5;2022-1-1
 recursos fonset;virtual;2022;1;5276542040;107;2022-1-1
@@ -2725,7 +2725,7 @@ movilidad;virtual;2022;2;189147900;66;2022-2-1
 multas codigo de policia;presencial;2022;2;32121643;108;2022-2-1
 otros ingresos;presencial;2022;2;2185300209;124;2022-2-1
 otros ingresos;virtual;2022;2;134535613;125;2022-2-1
-pot.;presencial;2022;2;241883149;16;2022-2-1
+pot;presencial;2022;2;241883149;16;2022-2-1
 publicidad exterior visual;presencial;2022;2;105117112;321;2022-2-1
 recursos fonset;presencial;2022;2;26989000;2;2022-2-1
 recursos fonset;virtual;2022;2;2652145631;28;2022-2-1
@@ -2766,7 +2766,7 @@ movilidad;virtual;2022;3;268214200;111;2022-3-1
 multas codigo de policia;presencial;2022;3;76241370;215;2022-3-1
 otros ingresos;presencial;2022;3;3,28911E+11;101;2022-3-1
 otros ingresos;virtual;2022;3;409280035;5;2022-3-1
-pot.;presencial;2022;3;1203044088;45;2022-3-1
+pot;presencial;2022;3;1203044088;45;2022-3-1
 publicidad exterior visual;presencial;2022;3;117854738;404;2022-3-1
 publicidad exterior visual;virtual;2022;3;61874981;58;2022-3-1
 recursos fonset;presencial;2022;3;9247409000;4;2022-3-1
@@ -2807,7 +2807,7 @@ movilidad;virtual;2022;4;177837500;65;2022-4-1
 multas codigo de policia;presencial;2022;4;46314573;165;2022-4-1
 otros ingresos;presencial;2022;4;3,2303E+11;89;2022-4-1
 otros ingresos;virtual;2022;4;77622253;6;2022-4-1
-pot.;presencial;2022;4;1095030233;54;2022-4-1
+pot;presencial;2022;4;1095030233;54;2022-4-1
 publicidad exterior visual;presencial;2022;4;39114870;63;2022-4-1
 publicidad exterior visual;virtual;2022;4;77662207;69;2022-4-1
 recursos fonset;presencial;2022;4;187698239;4;2022-4-1
@@ -2845,7 +2845,7 @@ movilidad;virtual;2022;5;192229100;76;2022-5-1
 multas codigo de policia;presencial;2022;5;59707188;194;2022-5-1
 otros ingresos;presencial;2022;5;3,48215E+11;126;2022-5-1
 otros ingresos;virtual;2022;5;1183051035;7;2022-5-1
-pot.;presencial;2022;5;2141726370;74;2022-5-1
+pot;presencial;2022;5;2141726370;74;2022-5-1
 publicidad exterior visual;presencial;2022;5;68884756;111;2022-5-1
 publicidad exterior visual;virtual;2022;5;83090910;79;2022-5-1
 recursos fonset;presencial;2022;5;9616975000;3;2022-5-1
@@ -2885,7 +2885,7 @@ movilidad;virtual;2022;6;194859600;95;2022-6-1
 multas codigo de policia;presencial;2022;6;60690568;134;2022-6-1
 otros ingresos;presencial;2022;6;2,33126E+11;192;2022-6-1
 otros ingresos;virtual;2022;6;460428253;6;2022-6-1
-pot.;presencial;2022;6;813591753;59;2022-6-1
+pot;presencial;2022;6;813591753;59;2022-6-1
 publicidad exterior visual;presencial;2022;6;40142250;85;2022-6-1
 publicidad exterior visual;virtual;2022;6;91451423;91;2022-6-1
 recursos fonset;presencial;2022;6;256748000;3;2022-6-1
@@ -2927,7 +2927,7 @@ movilidad;virtual;2022;7;228226100;77;2022-7-1
 multas codigo de policia;presencial;2022;7;46638414;118;2022-7-1
 otros ingresos;presencial;2022;7;1,96138E+11;113;2022-7-1
 otros ingresos;virtual;2022;7;112394654;7;2022-7-1
-pot.;presencial;2022;7;693460423;60;2022-7-1
+pot;presencial;2022;7;693460423;60;2022-7-1
 publicidad exterior visual;presencial;2022;7;57405907;51;2022-7-1
 publicidad exterior visual;virtual;2022;7;90408179;89;2022-7-1
 recursos fonset;presencial;2022;7;169798000;3;2022-7-1
@@ -2970,7 +2970,7 @@ movilidad;virtual;2022;8;55301200;29;2022-8-1
 multas codigo de policia;presencial;2022;8;63600201;183;2022-8-1
 otros ingresos;presencial;2022;8;1,49666E+11;151;2022-8-1
 otros ingresos;virtual;2022;8;394195597;8;2022-8-1
-pot.;presencial;2022;8;673694939;74;2022-8-1
+pot;presencial;2022;8;673694939;74;2022-8-1
 publicidad exterior visual;presencial;2022;8;38776066;64;2022-8-1
 publicidad exterior visual;virtual;2022;8;92834979;101;2022-8-1
 recursos fonset;presencial;2022;8;1400713000;6;2022-8-1
@@ -3013,7 +3013,7 @@ movilidad;virtual;2022;9;104937500;55;2022-9-1
 multas codigo de policia;presencial;2022;9;121365950;179;2022-9-1
 otros ingresos;presencial;2022;9;1,37517E+11;131;2022-9-1
 otros ingresos;virtual;2022;9;603140453;14;2022-9-1
-pot.;presencial;2022;9;2201446938;84;2022-9-1
+pot;presencial;2022;9;2201446938;84;2022-9-1
 publicidad exterior visual;presencial;2022;9;27366363;21;2022-9-1
 publicidad exterior visual;virtual;2022;9;117791747;131;2022-9-1
 recursos fonset;presencial;2022;9;85822000;2;2022-9-1
@@ -3056,7 +3056,7 @@ movilidad;virtual;2022;10;165352400;93;2022-10-1
 multas codigo de policia;presencial;2022;10;71969149;309;2022-10-1
 otros ingresos;presencial;2022;10;1,21907E+11;98;2022-10-1
 otros ingresos;virtual;2022;10;214473784;7;2022-10-1
-pot.;presencial;2022;10;1262244347;85;2022-10-1
+pot;presencial;2022;10;1262244347;85;2022-10-1
 publicidad exterior visual;presencial;2022;10;28860162;39;2022-10-1
 publicidad exterior visual;virtual;2022;10;119852248;118;2022-10-1
 recursos fonset;presencial;2022;10;32420000;3;2022-10-1
@@ -3099,7 +3099,7 @@ movilidad;virtual;2022;11;273231200;135;2022-11-1
 multas codigo de policia;presencial;2022;11;94621699;355;2022-11-1
 otros ingresos;presencial;2022;11;1,21474E+11;137;2022-11-1
 otros ingresos;virtual;2022;11;39654000;3;2022-11-1
-pot.;presencial;2022;11;1158357028;73;2022-11-1
+pot;presencial;2022;11;1158357028;73;2022-11-1
 publicidad exterior visual;presencial;2022;11;25646932;18;2022-11-1
 publicidad exterior visual;virtual;2022;11;145336544;165;2022-11-1
 recursos fonset;presencial;2022;11;9328950;2;2022-11-1
@@ -3142,7 +3142,7 @@ movilidad;virtual;2022;12;630787400;157;2022-12-1
 multas codigo de policia;presencial;2022;12;79477455;267;2022-12-1
 otros ingresos;presencial;2022;12;61773746115;130;2022-12-1
 otros ingresos;virtual;2022;12;328791025;7;2022-12-1
-pot.;presencial;2022;12;3383365094;110;2022-12-1
+pot;presencial;2022;12;3383365094;110;2022-12-1
 publicidad exterior visual;presencial;2022;12;12987648;13;2022-12-1
 publicidad exterior visual;virtual;2022;12;156493769;151;2022-12-1
 recursos fonset;presencial;2022;12;7634514000;7;2022-12-1
@@ -3183,7 +3183,7 @@ movilidad;virtual;2023;1;186214500;50;2023-1-1
 multas codigo de policia;presencial;2023;1;69129901;275;2023-1-1
 otros ingresos;presencial;2023;1;681113405;42;2023-1-1
 otros ingresos;virtual;2023;1;180424660;5;2023-1-1
-pot.;presencial;2023;1;543109240;65;2023-1-1
+pot;presencial;2023;1;543109240;65;2023-1-1
 publicidad exterior visual;presencial;2023;1;63623489;32;2023-1-1
 publicidad exterior visual;virtual;2023;1;126473943;120;2023-1-1
 recursos fonset;presencial;2023;1;425091000;2;2023-1-1
@@ -3226,7 +3226,7 @@ movilidad;virtual;2023;2;214704800;77;2023-2-1
 multas codigo de policia;presencial;2023;2;97505103;353;2023-2-1
 otros ingresos;presencial;2023;2;481810467;62;2023-2-1
 otros ingresos;virtual;2023;2;70702499;168;2023-2-1
-pot.;presencial;2023;2;975642087;109;2023-2-1
+pot;presencial;2023;2;975642087;109;2023-2-1
 publicidad exterior visual;presencial;2023;2;25108485;20;2023-2-1
 publicidad exterior visual;virtual;2023;2;127727331;131;2023-2-1
 recursos fonset;virtual;2023;2;2071271323;21;2023-2-1
@@ -3269,7 +3269,7 @@ movilidad;virtual;2023;3;264261200;96;2023-3-1
 multas codigo de policia;presencial;2023;3;129833951;438;2023-3-1
 otros ingresos;presencial;2023;3;2,99108E+11;63;2023-3-1
 otros ingresos;virtual;2023;3;77993972;5;2023-3-1
-pot.;presencial;2023;3;1219905520;140;2023-3-1
+pot;presencial;2023;3;1219905520;140;2023-3-1
 publicidad exterior visual;presencial;2023;3;53543898;57;2023-3-1
 publicidad exterior visual;virtual;2023;3;146136877;137;2023-3-1
 recursos fonset;presencial;2023;3;39952000;1;2023-3-1
@@ -3313,7 +3313,7 @@ movilidad;virtual;2023;4;244340400;76;2023-4-1
 multas codigo de policia;presencial;2023;4;111295611;247;2023-4-1
 otros ingresos;presencial;2023;4;3,00955E+11;85;2023-4-1
 otros ingresos;virtual;2023;4;616407592;8;2023-4-1
-pot.;presencial;2023;4;1000224109;150;2023-4-1
+pot;presencial;2023;4;1000224109;150;2023-4-1
 publicidad exterior visual;presencial;2023;4;48305708;37;2023-4-1
 publicidad exterior visual;virtual;2023;4;169917080;169;2023-4-1
 recursos fonset;presencial;2023;4;14715000;1;2023-4-1
@@ -3357,7 +3357,7 @@ movilidad;virtual;2023;5;240502300;91;2023-5-1
 multas codigo de policia;presencial;2023;5;119691062;412;2023-5-1
 otros ingresos;presencial;2023;5;2,99046E+11;96;2023-5-1
 otros ingresos;virtual;2023;5;677510237;6;2023-5-1
-pot.;presencial;2023;5;779972912;170;2023-5-1
+pot;presencial;2023;5;779972912;170;2023-5-1
 publicidad exterior visual;presencial;2023;5;41149315;26;2023-5-1
 publicidad exterior visual;virtual;2023;5;146128509;149;2023-5-1
 recursos fonset;presencial;2023;5;66127000;2;2023-5-1
@@ -3400,7 +3400,7 @@ movilidad;virtual;2023;6;182482800;101;2023-6-1
 multas codigo de policia;presencial;2023;6;121504191;428;2023-6-1
 otros ingresos;presencial;2023;6;1,85697E+11;131;2023-6-1
 otros ingresos;virtual;2023;6;682516404;148;2023-6-1
-pot.;presencial;2023;6;943228315;175;2023-6-1
+pot;presencial;2023;6;943228315;175;2023-6-1
 publicidad exterior visual;presencial;2023;6;101547960;45;2023-6-1
 publicidad exterior visual;virtual;2023;6;216793957;192;2023-6-1
 recursos fonset;presencial;2023;6;84041000;1;2023-6-1
@@ -3440,7 +3440,7 @@ movilidad;virtual;2023;7;204718100;68;2023-7-1
 multas codigo de policia;presencial;2023;7;115998090;369;2023-7-1
 otros ingresos;presencial;2023;7;1,25358E+11;86;2023-7-1
 otros ingresos;virtual;2023;7;456613676;10;2023-7-1
-pot.;presencial;2023;7;1287133682;217;2023-7-1
+pot;presencial;2023;7;1287133682;217;2023-7-1
 publicidad exterior visual;presencial;2023;7;31613251;49;2023-7-1
 publicidad exterior visual;virtual;2023;7;193219310;215;2023-7-1
 recursos fonset;presencial;2023;7;116646966;5;2023-7-1
@@ -3483,7 +3483,7 @@ movilidad;virtual;2023;8;199633800;90;2023-8-1
 multas codigo de policia;presencial;2023;8;98388247;348;2023-8-1
 otros ingresos;presencial;2023;8;1,40664E+11;80;2023-8-1
 otros ingresos;virtual;2023;8;156065769;8;2023-8-1
-pot.;presencial;2023;8;1388963409;210;2023-8-1
+pot;presencial;2023;8;1388963409;210;2023-8-1
 publicidad exterior visual;presencial;2023;8;34333848;51;2023-8-1
 publicidad exterior visual;virtual;2023;8;181087498;206;2023-8-1
 recursos fonset;presencial;2023;8;16195000;2;2023-8-1
@@ -3524,7 +3524,7 @@ movilidad;virtual;2023;9;105076200;76;2023-9-1
 multas codigo de policia;presencial;2023;9;108540611;337;2023-9-1
 otros ingresos;presencial;2023;9;1,68414E+11;136;2023-9-1
 otros ingresos;virtual;2023;9;31882851;8;2023-9-1
-pot.;presencial;2023;9;1066009782;203;2023-9-1
+pot;presencial;2023;9;1066009782;203;2023-9-1
 publicidad exterior visual;presencial;2023;9;40132794;82;2023-9-1
 publicidad exterior visual;virtual;2023;9;219911109;247;2023-9-1
 recursos fonset;presencial;2023;9;170246000;1;2023-9-1
@@ -3569,7 +3569,7 @@ movilidad;virtual;2023;10;132471200;107;2023-10-1
 multas codigo de policia;presencial;2023;10;96480601;332;2023-10-1
 otros ingresos;presencial;2023;10;1,38535E+11;157;2023-10-1
 otros ingresos;virtual;2023;10;6461301;6;2023-10-1
-pot.;presencial;2023;10;974516080;239;2023-10-1
+pot;presencial;2023;10;974516080;239;2023-10-1
 publicidad exterior visual;presencial;2023;10;25864227;32;2023-10-1
 publicidad exterior visual;virtual;2023;10;163195064;178;2023-10-1
 recursos fonset;presencial;2023;10;3255017853;5;2023-10-1
@@ -3612,7 +3612,7 @@ movilidad;virtual;2023;11;154537200;86;2023-11-1
 multas codigo de policia;presencial;2023;11;96238155;323;2023-11-1
 otros ingresos;presencial;2023;11;1,798E+11;127;2023-11-1
 otros ingresos;virtual;2023;11;66454690;12;2023-11-1
-pot.;presencial;2023;11;741565197;238;2023-11-1
+pot;presencial;2023;11;741565197;238;2023-11-1
 publicidad exterior visual;presencial;2023;11;25994308;47;2023-11-1
 publicidad exterior visual;virtual;2023;11;177336943;184;2023-11-1
 recursos fonset;presencial;2023;11;125784000;1;2023-11-1
@@ -3654,7 +3654,7 @@ movilidad;virtual;2023;12;810358700;142;2023-12-1
 multas codigo de policia;presencial;2023;12;108697939;211;2023-12-1
 otros ingresos;presencial;2023;12;1,34291E+11;132;2023-12-1
 otros ingresos;virtual;2023;12;1715046176;18;2023-12-1
-pot.;presencial;2023;12;1277499704;257;2023-12-1
+pot;presencial;2023;12;1277499704;257;2023-12-1
 publicidad exterior visual;presencial;2023;12;23128853;40;2023-12-1
 publicidad exterior visual;virtual;2023;12;153985955;162;2023-12-1
 recursos fonset;presencial;2023;12;5054713;2;2023-12-1
@@ -3696,8 +3696,8 @@ movilidad;virtual;2024;1;196280500;60;2024-1-1
 multas codigo de policia;presencial;2024;1;151448636;288;2024-1-1
 otros ingresos;presencial;2024;1;8432294247;100;2024-1-1
 otros ingresos;virtual;2024;1;7422112;5;2024-1-1
-pot.;presencial;2024;1;566523200;215;2024-1-1
-pot.;virtual;2024;1;29600863;18;2024-1-1
+pot;presencial;2024;1;566523200;215;2024-1-1
+pot;virtual;2024;1;29600863;18;2024-1-1
 publicidad exterior visual;presencial;2024;1;30526820;46;2024-1-1
 publicidad exterior visual;virtual;2024;1;141504713;157;2024-1-1
 recursos fonset;presencial;2024;1;603149751;1;2024-1-1
@@ -3742,8 +3742,8 @@ movilidad;virtual;2024;2;247471600;91;2024-2-1
 multas codigo de policia;presencial;2024;2;140562929;423;2024-2-1
 otros ingresos;presencial;2024;2;518184356;154;2024-2-1
 otros ingresos;virtual;2024;2;10956481;213;2024-2-1
-pot.;presencial;2024;2;1256095612;220;2024-2-1
-pot.;virtual;2024;2;32481863;16;2024-2-1
+pot;presencial;2024;2;1256095612;220;2024-2-1
+pot;virtual;2024;2;32481863;16;2024-2-1
 publicidad exterior visual;presencial;2024;2;20342253;40;2024-2-1
 publicidad exterior visual;virtual;2024;2;172538339;197;2024-2-1
 recursos fonset;presencial;2024;2;336000;1;2024-2-1
@@ -3788,8 +3788,8 @@ movilidad;virtual;2024;3;285093400;72;2024-3-1
 multas codigo de policia;presencial;2024;3;125496598;358;2024-3-1
 otros ingresos;presencial;2024;3;579831910;144;2024-3-1
 otros ingresos;virtual;2024;3;37533257;6;2024-3-1
-pot.;presencial;2024;3;663747433;190;2024-3-1
-pot.;virtual;2024;3;51314072;32;2024-3-1
+pot;presencial;2024;3;663747433;190;2024-3-1
+pot;virtual;2024;3;51314072;32;2024-3-1
 publicidad exterior visual;presencial;2024;3;32875731;44;2024-3-1
 publicidad exterior visual;virtual;2024;3;151022467;151;2024-3-1
 recursos fonset;virtual;2024;3;6060959745;24;2024-3-1
@@ -3835,8 +3835,8 @@ movilidad;virtual;2024;4;157653200;57;2024-4-1
 multas codigo de policia;presencial;2024;4;124159545;433;2024-4-1
 otros ingresos;presencial;2024;4;1,16281E+12;114;2024-4-1
 otros ingresos;virtual;2024;4;434586344;20;2024-4-1
-pot.;presencial;2024;4;906788050;191;2024-4-1
-pot.;virtual;2024;4;80054442;38;2024-4-1
+pot;presencial;2024;4;906788050;191;2024-4-1
+pot;virtual;2024;4;80054442;38;2024-4-1
 publicidad exterior visual;presencial;2024;4;56282553;83;2024-4-1
 publicidad exterior visual;virtual;2024;4;149975812;137;2024-4-1
 recursos fonset;presencial;2024;4;1548358000;9;2024-4-1
@@ -3853,3 +3853,177 @@ sobretasa a la gasolina;presencial;2024;4;12497558000;10;2024-4-1
 tasa pro deporte;presencial;2024;4;1464733517;88;2024-4-1
 transferencias;presencial;2024;4;230922835;5;2024-4-1
 transferencias;virtual;2024;4;3972732956;44;2024-4-1
+alumbrado publico;presencial;2024;5;763707699;1128;2024/5
+aprov.esp.pub;presencial;2024;5;409314402;496;2024/5
+aprov.esp.pub;virtual;2024;5;29442779;19;2024/5
+circulacion y transito;presencial;2024;5;199099770;1849;2024/5
+cuotas partes jubilatorias;presencial;2024;5;343905979;43;2024/5
+deguello de ganado;virtual;2024;5;433202400;3;2024/5
+delineacion urbana;presencial;2024;5;762508969;178;2024/5
+delineacion urbana;virtual;2024;5;2716151490;46;2024/5
+espectaculos publicos;presencial;2024;5;6240000;2;2024/5
+espectaculos publicos;virtual;2024;5;621067543;8;2024/5
+estampilla justicia familiar;virtual;2024;5;364759700;94;2024/5
+estampilla procultura;presencial;2024;5;168000;1;2024/5
+estampilla procultura;virtual;2024;5;127863000;8;2024/5
+estampilla pro-innovacion;virtual;2024;5;22793954;40;2024/5
+impuesto de vehiculos automotores;presencial;2024;5;12833977376;45;2024/5
+impuesto predial;presencial;2024;5;53493181104;126658;2024/5
+impuesto predial;virtual;2024;5;59687078089;40481;2024/5
+impuesto telefonico;presencial;2024;5;1839252418;74;2024/5
+industria y comercio;presencial;2024;5;33580905458;10527;2024/5
+industria y comercio;virtual;2024;5;219885461085;17373;2024/5
+ingresos no tributarios;presencial;2024;5;527304912;207;2024/5
+ingresos no tributarios;virtual;2024;5;35715593;170;2024/5
+movilidad;presencial;2024;5;14989973389;46878;2024/5
+movilidad;virtual;2024;5;356352700;104;2024/5
+multas codigo de policia;presencial;2024;5;108227319;385;2024/5
+otros ingresos;presencial;2024;5;26907750872;165;2024/5
+otros ingresos;virtual;2024;5;32876293;13;2024/5
+pot;presencial;2024;5;1064123348;217;2024/5
+pot;virtual;2024;5;100386714;45;2024/5
+publicidad exterior visual;presencial;2024;5;30932652;42;2024/5
+publicidad exterior visual;virtual;2024;5;193805524;176;2024/5
+recursos fonset;virtual;2024;5;7080532792;58;2024/5
+rendimientos financieros y recursos no ejecutados;presencial;2024;5;22108748676;105;2024/5
+rendimientos financieros y recursos no ejecutados;virtual;2024;5;9374991012;229;2024/5
+rentas contractuales;presencial;2024;5;5393676133;529;2024/5
+rentas contractuales;virtual;2024;5;155471770;48;2024/5
+retencion ica;presencial;2024;5;1430901395;59;2024/5
+retencion ica;virtual;2024;5;7878618873;1195;2024/5
+servicios;presencial;2024;5;9067078;707;2024/5
+servicios;virtual;2024;5;4762971;227;2024/5
+sobretasa a la gasolina;presencial;2024;5;19398769000;15;2024/5
+tasa pro deporte;presencial;2024;5;1601109567;109;2024/5
+transferencias;virtual;2024;5;4226231276;45;2024/5
+alumbrado publico;presencial;2024;6;14661529887;2349;2024/6
+aprov.esp.pub;presencial;2024;6;407758388;487;2024/6
+aprov.esp.pub;virtual;2024;6;21050291;21;2024/6
+circulacion y transito;presencial;2024;6;105178557;1183;2024/6
+cuotas partes jubilatorias;presencial;2024;6;309187209;81;2024/6
+deguello de ganado;virtual;2024;6;434070000;2;2024/6
+delineacion urbana;presencial;2024;6;737175351;171;2024/6
+delineacion urbana;virtual;2024;6;1227470337;32;2024/6
+espectaculos publicos;presencial;2024;6;5337600;1;2024/6
+espectaculos publicos;virtual;2024;6;129885517;4;2024/6
+estampilla justicia familiar;presencial;2024;6;610000;2;2024/6
+estampilla justicia familiar;virtual;2024;6;312136147;150;2024/6
+estampilla procultura;virtual;2024;6;123058000;10;2024/6
+estampilla pro-innovacion;presencial;2024;6;5071532;1;2024/6
+estampilla pro-innovacion;virtual;2024;6;93126000;67;2024/6
+impuesto de vehiculos automotores;presencial;2024;6;3305020316;46;2024/6
+impuesto predial;presencial;2024;6;33493914357;85451;2024/6
+impuesto predial;virtual;2024;6;20589533135;21393;2024/6
+impuesto telefonico;presencial;2024;6;1842901004;44;2024/6
+industria y comercio;presencial;2024;6;7861574983;5547;2024/6
+industria y comercio;virtual;2024;6;13778122148;4629;2024/6
+ingresos no tributarios;presencial;2024;6;229979610;275;2024/6
+ingresos no tributarios;virtual;2024;6;43018563;138;2024/6
+movilidad;presencial;2024;6;12943061792;42003;2024/6
+movilidad;virtual;2024;6;245073200;86;2024/6
+multas codigo de policia;presencial;2024;6;84657102;285;2024/6
+otros ingresos;presencial;2024;6;180902157511;164;2024/6
+otros ingresos;virtual;2024;6;2366478055;14;2024/6
+pot;presencial;2024;6;1829557775;175;2024/6
+pot;virtual;2024;6;94843695;55;2024/6
+publicidad exterior visual;presencial;2024;6;34507913;35;2024/6
+publicidad exterior visual;virtual;2024;6;178278958;178;2024/6
+recursos fonset;virtual;2024;6;10438138963;72;2024/6
+rendimientos financieros y recursos no ejecutados;presencial;2024;6;1571342156;72;2024/6
+rendimientos financieros y recursos no ejecutados;virtual;2024;6;6480488270;208;2024/6
+rentas contractuales;presencial;2024;6;5378562445;444;2024/6
+rentas contractuales;virtual;2024;6;11983872;42;2024/6
+retencion ica;virtual;2024;6;16787300;13;2024/6
+servicios;presencial;2024;6;6956094;578;2024/6
+servicios;virtual;2024;6;5115086;254;2024/6
+sobretasa a la gasolina;presencial;2024;6;5826561937;6;2024/6
+tasa pro deporte;presencial;2024;6;2389160033;170;2024/6
+transferencias;virtual;2024;6;4189596582;43;2024/6
+alumbrado publico;presencial;2024;7;27821827385;446;2024/7
+aprov.esp.pub;presencial;2024;7;593401096;607;2024/7
+aprov.esp.pub;virtual;2024;7;25335916;15;2024/7
+circulacion y transito;presencial;2024;7;384971752;4900;2024/7
+cuotas partes jubilatorias;presencial;2024;7;195071916;27;2024/7
+deguello de ganado;virtual;2024;7;403780000;2;2024/7
+delineacion urbana;presencial;2024;7;2110916506;190;2024/7
+delineacion urbana;virtual;2024;7;1697842304;39;2024/7
+espectaculos publicos;presencial;2024;7;100522275;4;2024/7
+espectaculos publicos;virtual;2024;7;787003626;9;2024/7
+estampilla justicia familiar;virtual;2024;7;240794000;186;2024/7
+estampilla procultura;presencial;2024;7;3446969;1;2024/7
+estampilla procultura;virtual;2024;7;93030000;9;2024/7
+estampilla pro-innovacion;virtual;2024;7;180798;1;2024/7
+estampilla pro-innovacion;presencial;2024;7;129000;3;2024/7
+estampilla pro-innovacion;virtual;2024;7;80087098;118;2024/7
+impuesto de vehiculos automotores;presencial;2024;7;6505873783;53;2024/7
+impuesto predial;presencial;2024;7;34966434569;62897;2024/7
+impuesto predial;virtual;2024;7;30467555305;22039;2024/7
+impuesto telefonico;presencial;2024;7;1736133958;96;2024/7
+industria y comercio;presencial;2024;7;23303058576;5984;2024/7
+industria y comercio;virtual;2024;7;162629841082;11143;2024/7
+ingresos no tributarios;presencial;2024;7;1582148539;275;2024/7
+ingresos no tributarios;virtual;2024;7;35025745;193;2024/7
+movilidad;presencial;2024;7;16175577928;50011;2024/7
+movilidad;virtual;2024;7;385431100;128;2024/7
+multas codigo de policia;presencial;2024;7;162719386;352;2024/7
+otros ingresos;presencial;2024;7;174142250261;141;2024/7
+otros ingresos;virtual;2024;7;637563616;29;2024/7
+pot;presencial;2024;7;1079687223;205;2024/7
+pot;virtual;2024;7;71230590;57;2024/7
+publicidad exterior visual;presencial;2024;7;29447401;44;2024/7
+publicidad exterior visual;virtual;2024;7;201075703;216;2024/7
+recursos fonset;virtual;2024;7;12939600431;106;2024/7
+rendimientos financieros y recursos no ejecutados;presencial;2024;7;18180161981;94;2024/7
+rendimientos financieros y recursos no ejecutados;virtual;2024;7;4639852517;260;2024/7
+rentas contractuales;presencial;2024;7;6117437165;437;2024/7
+rentas contractuales;virtual;2024;7;727757199;46;2024/7
+retencion ica;presencial;2024;7;1701616000;60;2024/7
+retencion ica;virtual;2024;7;10256786160;1285;2024/7
+servicios;presencial;2024;7;8613781;689;2024/7
+servicios;virtual;2024;7;4811857;253;2024/7
+sobretasa a la gasolina;presencial;2024;7;12482822514;11;2024/7
+tasa pro deporte;presencial;2024;7;1464582394;207;2024/7
+transferencias;virtual;2024;7;4186173249;41;2024/7
+alumbrado publico;presencial;2024;8;160040256;197;2024/8
+aprov.esp.pub;presencial;2024;8;407082288;482;2024/8
+aprov.esp.pub;virtual;2024;8;12600250;13;2024/8
+circulacion y transito;presencial;2024;8;61830567;510;2024/8
+cuotas partes jubilatorias;presencial;2024;8;89579426;14;2024/8
+deguello de ganado;virtual;2024;8;434917600;2;2024/8
+delineacion urbana;presencial;2024;8;2064354447;137;2024/8
+delineacion urbana;virtual;2024;8;2048622255;33;2024/8
+espectaculos publicos;virtual;2024;8;912952257;8;2024/8
+estampilla justicia familiar;presencial;2024;8;442251;1;2024/8
+estampilla justicia familiar;virtual;2024;8;465990800;146;2024/8
+estampilla procultura;virtual;2024;8;103440000;8;2024/8
+estampilla pro-innovacion;virtual;2024;8;117408000;82;2024/8
+impuesto de vehiculos automotores;presencial;2024;8;4179596572;23;2024/8
+impuesto predial;presencial;2024;8;35610761102;103860;2024/8
+impuesto predial;virtual;2024;8;32675642348;28215;2024/8
+impuesto telefonico;presencial;2024;8;1190974360;34;2024/8
+industria y comercio;presencial;2024;8;3920027929;3234;2024/8
+industria y comercio;virtual;2024;8;11725497519;3332;2024/8
+ingresos no tributarios;presencial;2024;8;439199168;181;2024/8
+ingresos no tributarios;virtual;2024;8;36092819;125;2024/8
+movilidad;presencial;2024;8;7896158750;24487;2024/8
+movilidad;virtual;2024;8;219372800;107;2024/8
+multas codigo de policia;presencial;2024;8;94569118;271;2024/8
+otros ingresos;presencial;2024;8;12377223145;36;2024/8
+otros ingresos;virtual;2024;8;24450965;6;2024/8
+pot;presencial;2024;8;2410866613;156;2024/8
+pot;virtual;2024;8;64313848;58;2024/8
+publicidad exterior visual;presencial;2024;8;9765000;21;2024/8
+publicidad exterior visual;virtual;2024;8;181804115;151;2024/8
+recursos fonset;virtual;2024;8;11310008120;93;2024/8
+rendimientos financieros y recursos no ejecutados;presencial;2024;8;1400420701;33;2024/8
+rendimientos financieros y recursos no ejecutados;virtual;2024;8;1836666318;158;2024/8
+rentas contractuales;presencial;2024;8;4980407884;381;2024/8
+rentas contractuales;virtual;2024;8;119379700;45;2024/8
+retencion ica;presencial;2024;8;612000;1;2024/8
+retencion ica;virtual;2024;8;21050000;10;2024/8
+servicios;presencial;2024;8;6142495;443;2024/8
+servicios;virtual;2024;8;3769699;202;2024/8
+sobretasa a la gasolina;presencial;2024;8;6634068486;6;2024/8
+sobretasa a la gasolina;virtual;2024;8;9964000;1;2024/8
+tasa pro deporte;presencial;2024;8;638710105;79;2024/8
+transferencias;virtual;2024;8;4171453623;41;2024/8
